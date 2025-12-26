@@ -12,7 +12,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Support Intrustion)](https://github.com/Fredrick387/Threat-Hunt/blob/main/SupportTool%20Intrustion%20Analysis.md)**
-- **[Threat Hunting Scenario (Port of Entry)](https://github.com/Fredrick387/Threat-Hunt/blob/main/Port%20of%20Entry%20(Virtual%20Machine%20Compromise.md)**
 
 <hr/>
 
