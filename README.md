@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🕵️‍♂️ Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https:)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Fredrick387/Tor-Browser-Usage/tree/main)**
 - **[Threat Hunt: The Helpdesk Deception](https://github.com/Fredrick387/Threat-Hunt/blob/main/SupportTool%20Intrustion%20Analysis.md)**
 - **[Threat Hunt: Port of Entry(Azuki Saga Pt.1)](https://github.com/Fredrick387/Threat-Hunt/blob/main/Port%20of%20Entry(Azuki%20Saga).md)**
 
