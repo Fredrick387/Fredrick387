@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🛡️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Fredrick387/Vulnerability-Management-Program)**
-- - **[Vulnerability Injection Basic vs. CIS Scans](https://github.com/Fredrick387/Tenable-Vulnerability-Injection-CIS-Compliance-Risk-Assessment)**
+- **[Vulnerability Injection Basic vs. CIS Scans](https://github.com/Fredrick387/Tenable-Vulnerability-Injection-CIS-Compliance-Risk-Assessment)**
 
 ## 🕵️‍♂️ Threat Hunting and Security Operations
 
