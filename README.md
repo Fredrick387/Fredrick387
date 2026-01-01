@@ -12,6 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunt: Tor Browser Usage](https://github.com/Fredrick387/Tor-Browser-Usage/blob/main/README.md)**
 - **[Threat Hunt: The Helpdesk Deception](https://github.com/Fredrick387/Threat-Hunt/blob/main/SupportTool%20Intrustion%20Analysis.md)**
 - **[Threat Hunt: Port of Entry(Azuki Saga Pt.1)](https://github.com/Fredrick387/Threat-Hunt/blob/main/Port%20of%20Entry(Azuki%20Saga).md)**
+- **[Threat Hunt: Cargo HOld(Azuki Saga Pt.2)](https://github.com/Fredrick387/Threat-Hunt/blob/main/Cargo%20Hold.md)**
 
 
 ## 🤖 Cybersecurity A.I. with Python 
