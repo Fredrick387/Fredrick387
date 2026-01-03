@@ -18,6 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤖 Cybersecurity A.I. with Python 
 - **[Microsoft Defender AI Analyzer MVP](https://github.com/Fredrick387/mde-threat-hunt-ai-bot-rebuild)**
+- **[AI Risk Remediation Assesment Bot MVP](https://github.com/Fredrick387/AI-Risk-Remediation-Bot)**
 
 <hr/>
 
