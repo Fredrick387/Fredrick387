@@ -7,6 +7,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/Fredrick387/Vulnerability-Management-Program)**
 - **[Vulnerability Injection Basic vs. CIS Scans](https://github.com/Fredrick387/Tenable-Vulnerability-Injection-CIS-Compliance-Risk-Assessment)**
+- **[Windows 11 STIG Hardening & Remediation](https://github.com/Fredrick387/stig-remediation)**
+
+
 
 ## 🕵️‍♂️ Threat Hunting and Security Operations
 
