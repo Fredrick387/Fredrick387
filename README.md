@@ -19,6 +19,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunt: The Helpdesk Deception](https://github.com/Fredrick387/Threat-Hunt/blob/main/SupportTool%20Intrustion%20Analysis.md)**
 - **[Threat Hunt: Port of Entry(Azuki Saga Pt.1)](https://github.com/Fredrick387/Threat-Hunt/blob/main/Port%20of%20Entry(Azuki%20Saga).md)**
 - **[Threat Hunt: Cargo Hold(Azuki Saga Pt.2)](https://github.com/Fredrick387/Threat-Hunt/blob/main/Cargo%20Hold.md)**
+- **[Threat Hunt: Dead in the Water(Azuki Saga Pt.4)](https://github.com/Fredrick387/Threat-Hunt/blob/main/Dead%20in%20the%20Water%20(Azuki%20Saga%20Pt.%204).md)**
 
 
 ## 🤖 Cybersecurity A.I. with Python 
