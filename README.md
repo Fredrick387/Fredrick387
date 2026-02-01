@@ -21,6 +21,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunt: Cargo Hold(Azuki Saga Pt.2)](https://github.com/Fredrick387/Threat-Hunt/blob/main/Cargo%20Hold.md)**
 - **[Threat Hunt: Dead in the Water(Azuki Saga Pt.4)](https://github.com/Fredrick387/Threat-Hunt/blob/main/Dead%20in%20the%20Water%20(Azuki%20Saga%20Pt.%204).md)**
 - **[Threat Hunt: Corp Health: Traceback](https://github.com/Fredrick387/Threat-Hunt/blob/main/Corp%20Health:%20Traceback.md)**
+- **[Threat Hunt: Crosscheck](https://github.com/Fredrick387/Threat-Hunt/blob/main/Crosscheck.md)**
+
 
 
 ## 🤖 Cybersecurity A.I. with Python 
